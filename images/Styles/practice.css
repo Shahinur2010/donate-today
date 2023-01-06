@@ -1,0 +1,82 @@
+/* header section */
+.header-donation{
+   background-image: url("../donation1.jpg");
+   background-repeat: no-repeat;
+   background-size: cover;
+   text-align: center;
+   color: white;
+   background-color: rgba(0, 0, 0, 0.552);
+   background-blend-mode: darken;
+   padding: 200px 30px 30px 50px; 
+
+}
+.header-title{
+font-size:  36px;
+font-weight: 800;
+color: aliceblue;
+padding: 10px 50px;
+}
+.header-description{
+    font-size: 18px;
+font-weight: 50;
+color:cornsilk;
+padding: 5px 50px;
+}
+.btn-primary{
+    background-color: crimson;
+    text-align: center;
+    color: azure;
+    padding: 10px 5px;
+    border-color:brown;
+    border-radius: 5px;
+}
+/* main section */
+.nav-title{
+font-weight: 900;
+font-size: 24px;
+text-align: center;
+}
+.nav-description{
+    text-align: center;
+    font-size: 18px;
+}
+.amount-of-donation, ul, li{
+display: flex;
+text-align: center;
+gap: 60px;
+padding: 20px 10px 20px 80px;
+font-size: 24px;
+font-weight: 800;
+color: rgb(201, 114, 114);
+}
+#highlight{
+    color:coral;
+}
+.taka{
+    text-align: center;
+    font-size: 14px;
+    font-weight: 200;
+}
+
+/* footer section */
+.footer{
+    background: black;
+    text-align: center;
+    padding: 20px 130px;
+}
+
+.footer-title{
+    color: purple;
+    font-family: serif;
+    font-size: 30px;
+    font-weight: 700;
+    font-style: italic;
+    padding-bottom: 15px;
+}
+
+.footer-description{
+    font-family: sans-serif;
+    color: aqua;
+    
+
+}
